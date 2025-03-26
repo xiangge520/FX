@@ -1,44 +1,44 @@
 {
 
-"warningText":"你好 飞翔专属 请勿盗卖",    
+“警告文本”：“你好你好” ，    
 
-"spider": "./HeChengChaXiu.jar",
- "wallpaper": "./cici.jpg",
- "logo":"./s.gif",
-"lives":[{"name":"live",
-"type":0,
-"url":"https://notabug.org/HG520/YS/raw/main/feixiangdianshi4.1.txt",
-"epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/bingimg/logo/{name}.png"}],
+“蜘蛛”：“ ./hechengchaxiu.jar”，
+ “壁纸”：“ ./cici.jpg”，
+ “徽标”：“ ./s.gif”，
+“生活”：[ { “ name”：“ live”，
+“类型”：0，
+“ url”：“ https：//notabug.org/hg520/raw/main/main/feixiangdianshi4.1.txt”，
+}}
+“徽标” ： “ https：//epg。112114.xyz/bingimg/logo/{name } .png ” } ] ， 
 
-"sites":[
+“站点”：[[
 
-{"key": "豆瓣","name": "全网影视免费看(智能机顶盒13707488633)","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
-{"key":"csp_南瓜","name":"🅱️南瓜影视(机顶盒 电脑 电器维护13707488633)","type":3,"api":"csp_AppNg","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"http://ys.changmengyun.com/api.php/provide/@@荷城茶秀"},
+{ “键”：“豆瓣”，“名称”：“ 全网影视免费看（智能机顶盒13707488633）”，“类型”：3，“ API”：“ ./ ./ lib/drpy 2 .min.js” ，“
+{ “ key”：“ csp_南瓜”，“名称”：“🅱️南瓜影视（机顶盒机顶盒机顶盒机顶盒电脑电脑电脑机顶盒电脑机顶盒电脑机顶盒机顶盒机顶盒机顶盒机顶盒机顶盒机顶盒机顶盒南瓜影视南瓜”， “ type ”：3，“ api”： “ csp_appng ” ，“ csp_appng”，“可搜索”：1， QuickSearch “ ：1，” “ http://ys.changmengyun.com/api.php/provide/@@荷城茶秀” }，
   {
-      "key": "ttys",
+      “键”：“ ttys”，
       "name": "天天┃快播影视(C250206)",
-      "type": 3,
-      "api": "csp_TTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 1,
-      "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg==",
-      "jar": "http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
-    },
+      "type"：3，
+      "api"：
+      "searchable"：1，
+      "quickSearch"：1，
+      "changeable"：1，
+      "playerType"：1，
+      "ext"
+      "jar"：
+    }，，
     {
-      "key": "rbys",
-      "name": "热播┃秒播影视(C250206)",
-      "type": 3,
-      "api": "csp_TTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 1,
-      "ext": "caHR0cDovL3YucmJvdHYuY24=",
-      "jar": "http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
-    },
+      “键”：“ rbys”，
+      “名称”：“ 热播┃秒播影视（ C 250206）”，，
+      “类型”：3，
+      “ API”：“ CSP_TTIAN”，，
+      “可搜索”：1，
+      “ QuickSearch”：1，
+      “可变”：1，
+      “ PlayerType”：1，
+      “ ext”：“ cahr 0 cdovl 3 yucmjvdhyuy 24 =”，
+      “ jar”：“ http：// m 1839732 .ca.ca.caoni.ru/ 8 /meow.php; md 5 ; cc 57 f 10 cb 80ee1 bc 9 df 179 df 179 A 6129 A 6129 a 6129 bd 0 7 b 3 ”
+    }，，
 {
       "key": "南瓜高清",
       "name": "南瓜高清(Z240802)",
@@ -57,10 +57,10 @@
     },
  
 {"key":"1080*资源","name":"1080*资源(Z240501)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
-{"key":"河马","name":"河马┃App秒播(C240713)","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn$$$null$$$1","jar": "./jar/pg1.jar"},
+{“键”：“河马”， “名称”： “河马┃app” C 240713）， “类型
 
     {
-      "key": "天天影视",
+      “键”：“天天影视”，，
       "name": "😈天天┃高清纯净(C240910)",
       "type": 3,
       "api": "csp_TTian",
