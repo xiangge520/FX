@@ -50,7 +50,21 @@
   "filterable":1,
   "ext":"http://ys.changmengyun.com/api.php/provide/@@荷城茶秀"
   },
-      {
+     {
+        "key": "魔爪影视",
+        "name": "🇨🇳魔爪┃采集(C250720)",
+        "type": 1,
+        "api": "https://mozhuazy.com/api.php/provide/vod/" 
+      },
+    {
+        "key": "魔都资源",
+        "name": "🇨🇳魔都┃采集(C250621)",
+        "type": 1,
+        "api": "https://moduzy2.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+      },
+   {
         "key": "ttys",
         "name": "🇨🇳天天┃影视(C250206)",
         "type": 3,
@@ -75,20 +89,6 @@
         "jar": "http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
       },
 
-   {
-        "key": "魔爪影视",
-        "name": "🇨🇳魔爪┃采集(C250720)",
-        "type": 1,
-        "api": "https://mozhuazy.com/api.php/provide/vod/" 
-      },
-    {
-        "key": "魔都资源",
-        "name": "🇨🇳魔都┃采集(C250621)",
-        "type": 1,
-        "api": "https://moduzy2.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
-      },
 {
 "key":"搜索",
 "name":"🇨🇳聚搜┃影视(C250916)",
@@ -98,6 +98,18 @@
 "jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
 },
 
+ {
+      "key": "紫金影视",
+      "name": "🇨🇳紫金┃影视(C251007)",
+      "type": 1,
+      "api": "https://www.zjcvod.com//api.php/provide/vod/"
+    },
+   {
+        "key": "映迷",
+        "name": "🇨🇳映迷┃秒播(C240501)",
+        "type": 0,
+        "api": "https://www.inmi.app/api.php/provide/vod/at/xml"
+      },
 {
         "key": "zycj_暴風",
         "name": "🇨🇳暴風┃影视(C240610)",
@@ -240,6 +252,101 @@
         "api": "https://assdf.mohuajz.eu.org/lib/drpy2.min.js",
         "ext": "https://assdf.mohuajz.eu.org/lib/哔哩视频.js"
       },
+{
+"key":"让我看看",
+"name":"🇨🇳让我┃看看(C251023)",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+"ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e",
+"请求头":"User-Agent$MOBILE_UA",
+"编码":"UTF-8",
+"分类url":"https://www.rangwokankan.cc/"}
+},
+
+{
+"key":"爱影剧",
+"name":"🇨🇳爱影┃剧剧(C251023)",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+"ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e",
+"请求头":"User-Agent$MOBILE_UA",
+"编码":"UTF-8",
+"分类url":"https://www.2yjw.com/"}
+},
+
+{
+"key":"私人影院",
+"name":"🇨🇳私人┃影院(C251023)",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+"ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e",
+"请求头":"User-Agent$MOBILE_UA",
+"编码":"UTF-8",
+"分类url":"https://v.catcs.cc/"}
+},
+
+{
+"key":"泥巴影院",
+"name":"🇨🇳泥巴┃影院(C251023)",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+"ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e",
+"请求头":"User-Agent$MOBILE_UA",
+"编码":"UTF-8",
+"分类url":"https://www.nbtvv.com/"}
+},
+
+{
+"key":"海兔影院",
+"name":"🇨🇳海兔┃影院(C251023)",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+"ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e",
+"请求头":"User-Agent$MOBILE_UA",
+"编码":"UTF-8",
+"分类url":"https://www.haituu.tv/"}
+},
+
+{
+"key":"一毛影院",
+"name":"🇨🇳一毛┃影院(C251023)",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+"ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e",
+"请求头":"User-Agent$MOBILE_UA",
+"编码":"UTF-8",
+"分类url":"http://www.zdhxh.com//"}
+},
+
+{
+"key":"导航影视",
+"name":"🇨🇳导航┃影视(C251023)",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+"ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e",
+"请求头":"User-Agent$MOBILE_UA",
+"编码":"UTF-8",
+"分类url":"https://linghang.bjdaohang.net//"}
+},
+
+{
+"key":"APP影视",
+"name":"🇨🇳APP┃影视(C251023)",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+"ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e",
+"请求头":"User-Agent$MOBILE_UA",
+"编码":"UTF-8",
+"分类url":"https://www.appmovie.vip/"}
+},
 
 {
 "key":"明星",
@@ -469,12 +576,7 @@
         "searchable": 1,
         "quickSearch": 1
       },
-   {
-        "key": "映迷",
-        "name": "🇨🇳映迷┃秒播(C240501)",
-        "type": 0,
-        "api": "https://www.inmi.app/api.php/provide/vod/at/xml"
-      },
+  
      {
         "key": "光速资源",
         "name": "🇨🇳光速┃采集(C240601)",
@@ -772,7 +874,7 @@
         "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/电影港.json"
       },
     {
-        "key": "午夜🏮蓝光",
+        "key": "午夜蓝光",
         "name": "🇨🇳午夜┃蓝光(C240610)",
         "type": 3,
         "api": "csp_XBPQ",
@@ -894,12 +996,6 @@
         }
       },
   
-    {
-      "key": "紫金影视",
-      "name": "🇨🇳紫金┃影视(C251007)",
-      "type": 1,
-      "api": "https://www.zjcvod.com//api.php/provide/vod/"
-    },
    {
       "key": "忆梦影视",
       "name": "🇨🇳忆梦┃影视(C251007)",
@@ -1580,7 +1676,7 @@
   {"key":"儿童武术","name":"🇨🇳 儿童｜武术(机顶盒 电脑 电器维护13707488633)
   ","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/儿童武术.json"},
   
-  {"key": "UpYun","name": "🇨🇳数据┃更新(251007)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
+  {"key": "UpYun","name": "🇨🇳数据┃更新(251023)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
   
   ],
   
@@ -1803,25 +1899,25 @@
          "ehwe.yhdtns.com",
          "xdn.cqqc3.com",
          "www.jixunkyy.cn",
-         "sp.chemacid.cn",
-         "hm.baidu.com",
-         "s9.cnzz.com",
-         "z6.cnzz.com",
-         "um.cavuc.com",
-         "mav.mavuz.com",
-         "wofwk.aoidf3.com",
-         "z5.cnzz.com",
-         "xc.hubeijieshikj.cn",
-         "tj.tianwenhu.com",
-         "xg.gars57.cn",
-         "k.jinxiuzhilv.com",
-         "cdn.bootcss.com",
-         "ppl.xunzhuo123.com",
-         "xomk.jiangjunmh.top",
-         "img.xunzhuo123.com",
-         "z1.cnzz.com",
-         "s13.cnzz.com",
-         "xg.huataisangao.cn",
+  "名称": "电脑-电器维修 影视APP-智能盒子专卖(13707488633)""sp.chemacid.cn",
+  "类型": 3,"hm.baidu.com",
+  "api": "./lib/drpy2.min.js","ext": "./js/douban.js""s9.cnzz.com",
+  }"z6.cnzz.com",
+  {"um.cavuc.com",
+        "key": "南瓜高清","mav.mavuz.com",
+        "名称": "🇨🇳南瓜┃高清(Z240802)""wofwk.aoidf3.com",
+        "类型": 3,"z5.cnzz.com",
+        "api": "https://gitee.com/fx520_1/ys/raw/main/lib/drpy2.js","xc.hubeijieshikj.cn",
+        "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/南瓜.js""tj.tianwenhu.com",
+      }"xg.gars57.cn",
+   {"k.jinxiuzhilv.com",
+        "key": "hdys","cdn.bootcss.com",
+        "名称": "🇨🇳蝴蝶┃影视(C250206)""ppl.xunzhuo123.com",
+        "类型": 3,"xomk.jiangjunmh.top",
+        "api": "csp_Hudie","img.xunzhuo123.com",
+        "可搜索的": 1,"z1.cnzz.com",
+        "快速搜索": 1,"s13.cnzz.com",
+        "changeable": 1,"xg.huataisangao.cn",
          "z7.cnzz.com",
          "xg.huataisangao.cn",
          "z2.cnzz.com",
